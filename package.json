@@ -1,0 +1,19 @@
+{
+    "name": "poisson-disk-sample",
+    "version": "1.0.0",
+    "description": "Fork for npm & require statements",
+    "main": "poisson-disk.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Evelios/poisson-disk-sample.git"
+    },
+    "author": "Jeffrey Hearn",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Evelios/poisson-disk-sample/issues"
+    },
+    "homepage": "https://github.com/Evelios/poisson-disk-sample#readme"
+}
